@@ -1,0 +1,5 @@
+#custema_child.libraries.yml
+global-styling:
+  css:
+    component:
+      css/style.css: {}
